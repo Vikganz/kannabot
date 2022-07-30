@@ -1,0 +1,81 @@
+/data/data/com.termu~ot/session.data.json 1023/258K 0%
+
+{
+
+  "kredit": {
+
+    "KebisinganKey": {
+
+      "pribadi": {
+
+        "tipe": "Penyangga",
+
+        "data": "eGA7guaFIjeyQSmNE5thwDfg24S1MO1oQ+xQcBptEWU="
+
+      },
+
+      "publik": {
+
+        "tipe": "Penyangga",
+
+        "data": "gugP8SxNlXhHNH+Sys9Gw/tFMtDFdfzYR5XHteGgVyw="
+
+      }
+
+    },
+
+    "signedIdentityKey": {
+
+      "pribadi": {
+
+        "tipe": "Penyangga",
+
+        "data": "mMNvRDY40de/SIPSWmZ6Q0PgowIEfYO0ArHKyjtWJEg="
+
+      },
+
+      "publik": {
+
+        "tipe": "Penyangga",
+
+        "data": "NOiM2u19OaJIiWvqcU257RynyrHWECP3ZBA1hYC4N10="
+
+      }
+
+    },
+
+    "signedPreKey": {
+
+      "pasangan kunci": {
+
+        "pribadi": {
+
+          "tipe": "Penyangga",
+
+          "data": "mCpPta8wsMh4Z05UuUG+w26XifhrFzLiSR53Zshoq3s="
+
+        },
+
+        "publik": {
+
+          "tipe": "Penyangga",
+
+          "data": "TVIFONslzCVVLn6YPo3WOlK1pWRD7vWNMQClCcXFIR4="
+
+        }
+
+      },
+
+      "tanda tangan": {
+
+        "tipe": "Penyangga",
+
+        "data": "MV9rrFkkrcVu8XquZniwHL7joCOoCFOxGIOAOGnxLf/xOn67zHrZ/m/Orv
+
+Y9D2sXptTt2/aTJ8VgcZ8ja0BkAg=="
+
+      },
+
+      "keyId": 1
+
+    },kami
